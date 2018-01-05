@@ -15,8 +15,10 @@ SCAIView queries
 
 Following, the steps to follow in order to reproduce the data
 
-.. image:: screenshots/step1.png
+Click here |screenshot1|_ to see how to make a query in `SCAIView <http://academia.scaiview.com/academia/>`_.
+Next, results of the query will be displayed |screenshot2|_. Here, you can export the results by clicking in 'Export'.
+Finally, to export the results to an excel file, click in 'Export full table' |screenshot2|_.
 
-.. image:: screenshots/step2.png
-
-.. image:: screenshots/step3.png
+.. |screenshot1| image:: screenshots/step1.png
+.. |screenshot2| image:: screenshots/step2.png
+.. |screenshot3| image:: screenshots/step3.png
