@@ -15,6 +15,6 @@ SCAIView queries
 
 Following, the steps to follow in order to reproduce the data
 
-- ![Screenshot 1](screenshots/step1.png?raw=true "SCAIView step 1")
-- ![Screenshot 2](screenshots/step2.png?raw=true "SCAIView step 2")
-- ![Screenshot 3](screenshots/step2.png?raw=true "SCAIView step 3")
+- ![Screenshot 1](screenshots/step1.png)
+- ![Screenshot 2](screenshots/step2.png)
+- ![Screenshot 3](screenshots/step2.png)
