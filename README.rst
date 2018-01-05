@@ -16,3 +16,7 @@ SCAIView queries
 Following, the steps to follow in order to reproduce the data
 
 .. image:: screenshots/step1.png
+
+.. image:: screenshots/step2.png
+
+.. image:: screenshots/step3.png
