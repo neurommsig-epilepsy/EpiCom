@@ -1,14 +1,16 @@
-Disease	Reference Query	Number of documents	Genes associated with the disease	Gene set size	Normalized pleitropy rate (%)
-Alzheimer's disease	"[MeSH Disease:""Alzheimer Disease""]"	109495	4968	396	13.65
-Migraine	"[MeSH Disease:""Migraine Disorders""]"	30928	1230	306	10.54
-Parkinson's disease	"[MeSH Disease:""Parkinson Disease""]"	79103	3646	258	8.89
-Hypertension	"[MeSH Disease:""Hypertension""]"	391190	5574	252	8.68
-Dementia	"[MeSH Disease:""Dementia""]"	183802	5833	220	7.58
-Diabetes	"[MeSH Disease:""Diabetes Mellitus""]"	394411	6661	184	6.34
-Anxiety	"[MeSH Disease:""Anxiety Disorders""]"	84138	1782	124	4.27
-Arthritis	"[MeSH Disease:""Arthritis""]"	259327	5367	122	4.2
-Cataracts	"[MeSH Disease:""Cataract""]"	52150	2238	119	4.1
-Colon cancer	"[MeSH Disease:""Colonic Neoplasms""]"	107274	3646	30	1.03
-Urinary incontinence	"[MeSH Disease:""Urinary Incontinence""]"	34170	720	24	0.82
-Peptic ulcers	"[MeSH Disease:""Peptic Ulcer""]"	68234	1445	21	0.72
-COPD	"[MeSH Disease:""Pulmonary Disease Chronic Obstructive""]"	35627	2244	15	0.51
+Disease (MeSH ID)	Reference Query	Associated documents	Disease-associated genes	Comorbidity-associated genes	Normalized pleitropy rate (%)
+Epilepsy (D004827)	"[MeSH Disease:""Epilepsy""]"	192245	2901	-	-
+Alzheimer's Disease (D000544)	"[MeSH Disease:""Alzheimer Disease""]"	109495	4968	396	13.65
+Migraine (D008881)	"[MeSH Disease:""Migraine Disorders""]"	30928	1230	306	10.54
+Parkinson's Disease (D010300)	"[MeSH Disease:""Parkinson Disease""]"	79103	3646	258	8.89
+Hypertension (D006973)	"[MeSH Disease:""Hypertension""]"	391190	5574	252	8.68
+Dementia (D003704)	"[MeSH Disease:""Dementia""]"	183802	5833	220	7.58
+Diabetes Mellitus (D003920)	"[MeSH Disease:""Diabetes Mellitus""]"	394411	6661	184	6.34
+Anxiety (D001007)	"[MeSH Disease:""Anxiety Disorders""]"	84138	1782	124	4.27
+Arthritis(D001168)	"[MeSH Disease:""Arthritis""]"	259327	5367	122	4.2
+Cataract (D002386)	"[MeSH Disease:""Cataract""]"	52150	2238	119	4.1
+Colonic Neoplasms (D003110)	"[MeSH Disease:""Colonic Neoplasms""]"	107274	3646	30	1.03
+Urinary Incontinence (D014549)	"[MeSH Disease:""Urinary Incontinence""]"	34170	720	24	0.82
+Peptic Ulcer (D010437)	"[MeSH Disease:""Peptic Ulcer""]"	68234	1445	21	0.72
+"Pulmonary Disease, Chronic Obstructive
+(D029424)"	"[MeSH Disease:""Pulmonary Disease Chronic Obstructive""]"	35627	2244	15	0.51
