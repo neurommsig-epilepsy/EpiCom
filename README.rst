@@ -15,10 +15,6 @@ SCAIView queries
 
 Following, the steps to follow in order to reproduce the data:
 
-Click |here|_ to see how to make a query in `SCAIView <http://academia.scaiview.com/academia/>`_.
-Next, |results of the query|_ will be displayed. Here, you can export the results by clicking in 'Export'.
+Click _`here` <https://github.com/cthoyt/EpiCom/blob/master/screenshots/step1.png>`_ to see how to make a query in `SCAIView <http://academia.scaiview.com/academia/>`_.
+Next, _`results of the query` <https://github.com/cthoyt/EpiCom/blob/master/screenshots/step2.png>`_ will be displayed. Here, you can export the results by clicking in _`Export` <https://github.com/cthoyt/EpiCom/blob/master/screenshots/step3.png>`_.
 Finally, to export the results to an excel file, click in |'Export full table'|_.
-
-.. |here| image:: https://github.com/cthoyt/EpiCom/blob/master/screenshots/step1.png
-.. |results of the query| image:: https://github.com/cthoyt/EpiCom/blob/master/screenshots/step2.png
-.. |'Export full table'| image:: https://github.com/cthoyt/EpiCom/blob/master/screenshots/step3.png
