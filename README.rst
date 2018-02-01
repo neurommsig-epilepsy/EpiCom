@@ -57,7 +57,7 @@ This section corresponds to the "Epilepsy Mechanism Enrichment" and "Comparative
 
 Step 1
 ~~~~~~
-Submitted a query to `NeuroMMSig`_ with the `protein targets of carbamazepime <https://github.com/cthoyt/EpiCom/blob/master/genes.txt>`_ coming from `PharmKGB <https://www.pharmgkb.org/chemical/PA448785>`_ against Epilepsy.
+Submitted a query to `NeuroMMSig <http://neurommsig.scai.fraunhofer.de/>`_ with the `protein targets of carbamazepime <https://github.com/cthoyt/EpiCom/blob/master/genes.txt>`_ coming from `PharmKGB <https://www.pharmgkb.org/chemical/PA448785>`_ against Epilepsy.
 
 .. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/comparison-step1.png
         :alt: Step 1: Query Epilepsy
@@ -88,7 +88,7 @@ Perform enrichment with the combine context of Alzheimer's disease and Epilepsy 
 
 Step 5
 ~~~~~~
-Use the visualization to explore and generate hypotheses
+Use the visualization to explore and generate hypotheses.
 
 .. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/comparison-step5.png
         :alt: Step 5: Generate Hypotheses
