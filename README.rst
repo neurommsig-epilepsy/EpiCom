@@ -1,6 +1,6 @@
 EpiCom - an comorbidity analysis for Epilepsy 
 =============================================
-This repository contains code and resources used for the two analyses described in Hoyt et al., 2018. First, comorbidity analysis was performed with a `literature-based approach <https://github.com/cthoyt/EpiCom#quantification-of-gene-overlap>`_ based on overlapping co-occurrence of genes with Epilepsy and other diseases. Second, comorbidity analysis was performed on a mechanistic level
+This repository contains code and resources used for the two analyses described in Hoyt et al., 2018. First, comorbidity analysis was performed with a `literature-based approach <https://github.com/cthoyt/EpiCom#quantification-of-gene-overlap>`_ based on overlapping co-occurrence of genes with Epilepsy and other diseases. Second, comorbidity analysis was performed on a mechanistic level with a `comparative mechanistic enrichment <https://github.com/cthoyt/EpiCom#comparative-mechanism-enrichment>`_ approach based on a shared therapy, carbamazepime, between Epilepsy and Alzheimer's disease.
 
 Structure of the Project
 ------------------------
