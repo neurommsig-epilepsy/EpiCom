@@ -8,9 +8,9 @@ Structure of the Project
 
 2. Notebooks: 
 
-  - `Epilepsy SCAIView Comorbidity Analysis <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20SCAIView%20Comorbidity%20Analysis.ipynb>`_ outlines the calculations of pleitropy rates using the resources in the repository. See below.
-  - `Epilepsy Knowledge Assembly Summary <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Knowledge%20Assembly%20Summary.ipynb>`_ contains the summary of the different subgraphs used to generate **Table 2** of the manuscript.
-  - `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on  enrichment scores 
+- `Epilepsy SCAIView Comorbidity Analysis <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20SCAIView%20Comorbidity%20Analysis.ipynb>`_ outlines the calculations of pleitropy rates using the resources in the repository. See below.
+- `Epilepsy Knowledge Assembly Summary <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Knowledge%20Assembly%20Summary.ipynb>`_ contains the summary of the different subgraphs used to generate **Table 2** of the manuscript.
+- `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on  enrichment scores 
 
 Quantification of Gene Overlap
 ------------------------------
