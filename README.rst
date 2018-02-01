@@ -1,6 +1,6 @@
 EpiCom - an comorbidity analysis for Epilepsy 
 =============================================
-This repository contains code and resources used for the two analyses described in Hoyt et al., 2018. First, comorbidity analysis was performed with a `literature-based approach <https://github.com/cthoyt/EpiCom#quantification-of-gene-overlap>`_ based on overlapping co-occurrence of genes with Epilepsy and other diseases. Second, comorbidity analysis was performed on a mechanistic level with a `comparative mechanistic enrichment <https://github.com/cthoyt/EpiCom#comparative-mechanism-enrichment>`_ approach based on a shared therapy, carbamazepime, between Epilepsy and Alzheimer's disease.
+This repository contains code and resources used for the two analyses described in Hoyt et al., 2018. First, comorbidity analysis was performed with a `literature-based approach <https://github.com/cthoyt/EpiCom#quantification-of-gene-overlap>`_ based on overlapping co-occurrence of genes with Epilepsy and other diseases. Second, comorbidity analysis was performed on a mechanistic level with a `comparative mechanistic enrichment <https://github.com/cthoyt/EpiCom#comparative-mechanism-enrichment>`_ approach based on a shared therapy, carbamazepime, between epilepsy and Alzheimer's disease.
 
 Structure of the Project
 ------------------------
@@ -55,7 +55,7 @@ This section corresponds to the "Epilepsy Mechanism Enrichment" and "Comparative
 
 Step 1
 ~~~~~~
-Submitted a query to `NeuroMMSig <http://neurommsig.scai.fraunhofer.de/>`_ with the `protein targets of carbamazepime <https://github.com/cthoyt/EpiCom/blob/master/genes.txt>`_ coming from `PharmKGB <https://www.pharmgkb.org/chemical/PA448785>`_ against Epilepsy.
+Submitted a query to `NeuroMMSig <http://neurommsig.scai.fraunhofer.de/>`_ with the `protein targets of carbamazepime <https://github.com/cthoyt/EpiCom/blob/master/genes.txt>`_ coming from `PharmKGB <https://www.pharmgkb.org/chemical/PA448785>`_ against epilepsy.
 
 .. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/comparison-step1.png
         :alt: Step 1: Query Epilepsy
@@ -77,7 +77,7 @@ Repeat steps 1-2 for the Alzheimer's disease. Run the Jupyter notebook, `Mechani
 
 Step 4
 ~~~~~~
-Perform enrichment with the combine context of Alzheimer's disease and Epilepsy then choose all networks with enrichment scores above the cutoff.
+Perform enrichment with the combine context of Alzheimer's disease and epilepsy then choose all networks with enrichment scores above the cutoff.
 
 .. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/comparison-step4.png
         :alt: Step 4: Query Combine Context
