@@ -8,7 +8,11 @@ Structure of the project
 
 1. The resources and results folders contains all documents retrieved from SCAView queries as well as the tables and supplementary information presented in the paper
 
-2. 'Epilepsy SCAIView comordbity analysis' is a Jupyter notebook outlining the calculations of pleitropy rates using the resources in the repository.
+2. Notebooks: 
+
+  - 'Epilepsy SCAIView comordbity analysis' outlines the calculations of pleitropy rates using the resources in the repository.
+  - 'Epilepsy Knowledge Assembly Summary' contains the summary of the different subgraphs used to generate Table 2 of the manuscript.
+  - 'Mechanism Enrichment Score Percentile Calculation' describes the statistical calculations for chosen a threshold based on  enrichment scores 
 
 SCAIView queries
 ----------------
