@@ -24,8 +24,18 @@ Next, `results of the query <https://github.com/cthoyt/EpiCom/blob/master/screen
 Finally, to export the results to an excel file, click in `Export full table <https://github.com/cthoyt/EpiCom/blob/master/screenshots/step1.png>`_.
 
 
-![Alt text](screenshots/step1.png?raw=true "Step 1")
-
-![Alt text](screenshots/step2.png?raw=true "Step 2")
-
-![Alt text](screenshots/step3.png?raw=true "Step 3")
+.. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/step1.png
+        :alt: Step 1: How to Make a Query
+        :width: 100%
+        :align: center
+		
+		
+.. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/step2.png
+        :alt: Step 2: Display of Results
+        :width: 100%
+        :align: center
+		
+.. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/step3.png
+        :alt: Step 1: Export Results
+        :width: 100%
+        :align: center
