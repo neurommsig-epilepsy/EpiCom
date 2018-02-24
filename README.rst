@@ -1,7 +1,7 @@
 EpiCom - a comorbidity analysis for Epilepsy 
 ============================================
 
-This repository contains code and resources used for the two analyses described in `Hoyt et al. <https://www.biorxiv.org/content/early/2018/02/22/269860>`_. Our BioRxiv preprint is now available! Read it `here <https://www.biorxiv.org/content/early/2018/02/22/269860>`_ for more details about EpiCom.
+This repository contains code and resources used for the two analyses described in `Hoyt et al <https://www.biorxiv.org/content/early/2018/02/22/269860>`_. Our BioRxiv preprint is now available! Read it `here <https://www.biorxiv.org/content/early/2018/02/22/269860>`_ for more details about EpiCom.
 
 Methodology
 -----------
