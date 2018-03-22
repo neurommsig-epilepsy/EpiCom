@@ -1,7 +1,7 @@
 EpiCom - a comorbidity analysis for Epilepsy 
 ============================================
 
-This repository contains code and resources used for the two analyses described in `Hoyt et al <https://www.biorxiv.org/content/early/2018/02/22/269860>`_. Our BioRxiv preprint is now available! Read it `here <https://www.biorxiv.org/content/early/2018/02/22/269860>`_ for more details about EpiCom.
+This repository contains code and resources used for the two analyses described in `Hoyt *et al* <https://www.biorxiv.org/content/early/2018/02/22/269860>`_. Our bioRxiv preprint is now available! Read it `here <https://www.biorxiv.org/content/early/2018/02/22/269860>`_ for more details about EpiCom.
 
 Methodology
 -----------
@@ -12,9 +12,10 @@ Structure of the Project
 ------------------------
 1. The resources and results folders contains all documents retrieved from SCAView queries as well as the tables and supplementary information presented in the paper
 2. Notebooks
-  - `Epilepsy SCAIView Comorbidity Analysis <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20SCAIView%20Comorbidity%20Analysis.ipynb>`_ outlines the calculations of pleiotropy rates using the resources in the repository. See below.
-  - `Epilepsy Knowledge Assembly Summary <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Knowledge%20Assembly%20Summary.ipynb>`_ contains the summary of the different subgraphs used to generate **Table 2** of the manuscript.
-  - `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on  enrichment scores 
+   - `Epilepsy SCAIView Comorbidity Analysis <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20SCAIView%20Comorbidity%20Analysis.ipynb>`_ outlines the calculations of pleiotropy rates using the resources in the repository. See below.
+   - `Epilepsy Knowledge Assembly Summary <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Knowledge%20Assembly%20Summary.ipynb>`_ contains the summary of the different subgraphs used to generate **Table 2** of the manuscript.
+   - `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on enrichment scores 
+3. `carbamazepine_targets.txt <https://github.com/cthoyt/EpiCom/blob/master/carbamazepine_targets.txt>`_ contains the gene list of targets of carbamazepine corresponding to Supplementary Text S1.
 
 Quantification of Gene Overlap
 ------------------------------

@@ -1,4 +1,6 @@
-This folder contains all documents retrieved from SCAView queries:
+EpiCom - Resources
+==================
+This folder contains all documents retrieved from SCAView queries and are named accordingly:
 
 - [MeSH Disease:"Epilepsy"] AND [MeSH Disease:"Alzheimer Disease"]
 - [MeSH Disease:"Epilepsy"] AND [MeSH Disease:"Parkinson Disease"]
@@ -14,5 +16,9 @@ This folder contains all documents retrieved from SCAView queries:
 - [MeSH Disease:"Epilepsy"] AND [MeSH Disease:"Arthritis"]
 - [MeSH Disease:"Epilepsy"]
 
+An in-depth tutorial for reproduction can be found in the main README of this repository.
+
+Provenance
+----------
 The queries were retrieved using SCAIView version 1.7.3
 Corresponding to the indexing of MEDLINE on 2016-07-14T13:50:07.797575Z.
