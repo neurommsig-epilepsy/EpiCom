@@ -14,7 +14,7 @@ Structure of the Project
   - `Epilepsy SCAIView Comorbidity Analysis <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20SCAIView%20Comorbidity%20Analysis.ipynb>`_ outlines the calculations of pleiotropy rates using the resources in the repository. See `below <https://github.com/cthoyt/EpiCom#quantification-of-gene-overlap>`_.
   - `Epilepsy Knowledge Assembly Summary <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Knowledge%20Assembly%20Summary.ipynb>`_ contains the summary of the different subgraphs used to generate **Table 2** of the manuscript.
   - `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on enrichment scores 
-  - `Epilepsy Corpora Overview <<https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Corpora%20Overview.ipynb>`_ gives a summary of the originally generate corpora compared to which articles were actually curated
+  - `Epilepsy Corpora Overview <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Corpora%20Overview.ipynb>`_ gives a summary of the originally generate corpora compared to which articles were actually curated
 3. `carbamazepine_targets.txt <https://github.com/cthoyt/EpiCom/blob/master/carbamazepine_targets.txt>`_ contains the gene list of targets of carbamazepine corresponding to Supplementary Text S1.
 
 Quantification of Gene Overlap
