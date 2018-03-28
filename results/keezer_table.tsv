@@ -1,0 +1,64 @@
+Condition	ICD Chapter	Reference	Value
+Neoplasm	2	CHIS	11.1
+Neoplasm	2	CHS 2005	1.4
+Neoplasm	2	NHIS 2002	2.4
+Neoplasm	2	NHIS 2010	11.3
+Neoplasm	2	NPHS	1.2
+Diabetes mellitus	4	BRFSS	13.0
+Diabetes mellitus	4	CHIS	7.7
+Diabetes mellitus	4	CHS 2005	1.2
+Diabetes mellitus	4	EPIC	1.0
+Diabetes mellitus	4	GPRD	1.6
+Diabetes mellitus	4	NHIS 2002	1.3
+Diabetes mellitus	4	NHIS 2010	10.3
+Diabetes mellitus	4	NPHS	1.6
+Thyroid condition	4	CHS 2005	1.6
+Thyroid condition	4	NPHS	1.3
+Major Depression	5	CHS 2007	17.4
+Major Depression	5	EPIC	1.3
+Major Depression	5	GRPD	2.0
+Anxiety	5	CHS 2007	22.8
+Anxiety	5	EPIC	1.6
+Anxiety	5	GPRD	2.0
+Dementia	6	GPRD	6.3
+Dementia	6	NPHS	4.3
+Alzheimer's disease	6	GPRD 8.1
+Migraine	6	CHS 2005	2.0
+Migraine	6	EPIC	1.4
+Migraine	6	GPRD	1.6
+Migraine	6	NHIS 2002	3.0
+Migraine	6	NHIS 2010	34.7
+Migraine	6	NPHS	2.6
+Glaucoma	7	CHS 2005	1.2
+Glaucoma	7	NPHS	1.1
+Cataracts	7	CHS 2005	1.2
+Cataracts	7	NPHS	2.4
+Stroke	9		
+Stroke	9		
+Stroke	9		
+Stroke	9		
+Stroke	9		
+Stroke	9		
+Stroke	9		
+Heart disease	9		
+Hypertension	9		
+COPD	10		
+Chronic bronchitis	10		
+Emphysema	10		
+Asthma	10		
+Peptic ulcers	11		
+Bowel disorders	11		
+Allergies	13	CHS 2005	1.2
+Allergies	13	NPHS	1.6
+Back problems	13	CHS 2005	1.4
+Back problems	13	NPHS	1.5
+Fibromyalgia	13	CHS 2005	1.5
+Fibromyalgia	13	EPIC	2.0
+Arthritis	13	BRFSS	43.0
+Arthritis	13	CHISS	32.3
+Arthritis	13	CHS 2005	1.4
+Arthritis	13	NHIS 2002	2.3
+Arthritis	13	NHIS 2010	30.9
+Arthritis	13	NHPS	1.5
+Urinary incontinence	14	CHS 2005	3.2
+Urinary incontinence	14	NPHS	4.4

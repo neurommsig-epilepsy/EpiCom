@@ -4,7 +4,6 @@ This repository contains code and resources used for the two analyses described 
 
 Methodology
 -----------
-
 First, a comorbidity analysis was performed with a `literature-based approach <https://github.com/cthoyt/EpiCom#quantification-of-gene-overlap>`_ based on overlapping co-occurrence of genes with Epilepsy and other diseases. Second, comorbidity analysis was performed on a mechanistic level with a `comparative mechanistic enrichment <https://github.com/cthoyt/EpiCom#comparative-mechanism-enrichment>`_ approach based on a shared therapy, carbamazepime, between epilepsy and Alzheimer's disease.
 
 Structure of the Project
@@ -12,6 +11,7 @@ Structure of the Project
 1. The resources and results folders contains all documents retrieved from SCAView queries as well as the tables and supplementary information presented in the paper
 2. Notebooks
   - `Epilepsy SCAIView Comorbidity Analysis <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20SCAIView%20Comorbidity%20Analysis.ipynb>`_ outlines the calculations of pleiotropy rates using the resources in the repository. See `below <https://github.com/cthoyt/EpiCom#quantification-of-gene-overlap>`_.
+  - `Epidemiology vs. Literature-Based Comorbidity <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Corpora%20Overview.ipynb>`_ a comparison between epidemiological and literature/gene-based comorbidity analysis
   - `Epilepsy Knowledge Assembly Summary <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Knowledge%20Assembly%20Summary.ipynb>`_ contains the summary of the different subgraphs used to generate **Table 2** of the manuscript.
   - `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on enrichment scores 
   - `Epilepsy Corpora Overview <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Corpora%20Overview.ipynb>`_ gives a summary of the originally generate corpora compared to which articles were actually curated
