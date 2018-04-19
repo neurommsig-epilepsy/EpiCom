@@ -1,0 +1,35 @@
+	Nodes	Edges	Components	Citations
+Adaptive immune system subgraph	12	12	4	5
+Adenosine signaling subgraph	76	154	3	15
+Apoptosis signaling subgraph	228	503	5	115
+Brain_derived neurotrophic factor signaling subgraph	75	144	1	29
+Calcium dependent subgraph	302	778	8	73
+Chromatin organization subgraph	8	10	2	2
+Energy metabolic subgraph	91	177	4	24
+Estradiol metabolism	7	8	2	1
+G-protein-mediated signaling	78	142	5	26
+Gaba subgraph	263	637	2	57
+Glutamatergic subgraph	121	234	5	32
+Hormone signaling subgraph	126	252	9	16
+Inflammatory response subgraph	42	49	4	21
+Innate immune system subgraph	41	63	8	18
+Interleukin signaling subgraph	46	111	3	17
+Long term synaptic depression	64	131	2	22
+Long term synaptic potentiation	125	246	2	46
+Mapk-erk subgraph	313	696	5	68
+Metabolism	340	600	14	126
+Mirna subgraph	5	4	1	3
+Mossy fiber subgraph	38	66	2	14
+Mtor signaling subgraph	166	336	3	42
+Neurotransmitter release subgraph	553	1658	5	132
+Notch signaling subgraph	105	207	3	20
+Protein kinase signaling subgraph	377	840	6	87
+Protein metabolism	129	185	8	44
+Reelin signaling subgraph	117	253	2	21
+Regulation of actin cytoskeleton subgraph	5	3	2	2
+Serotonergic subgraph	148	478	2	18
+Thyroid hormone signaling subgraph	106	224	2	9
+Transport related subgraph	49	60	7	25
+Undefined	2908	3120	519	109
+Wnt signaling subgraph	27	38	3	15
+Total	3480	8128	16	641

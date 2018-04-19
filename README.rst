@@ -1,6 +1,6 @@
-EpiCom - a comorbidity analysis for Epilepsy 
+EpiCom - a comorbidity analysis for Epilepsy
 ============================================
-This repository contains code and resources used for the two analyses described in `A systematic approach for identifying shared mechanisms in epilepsy and its comorbidities <https://www.biorxiv.org/content/early/2018/02/22/269860>`_ from Hoyt and Domingo-Fernández *et al.*, 2018. Our bioRxiv preprint is now available! Read it `here <https://www.biorxiv.org/content/early/2018/03/28/269860>`_ for more details about EpiCom.
+This repository contains code and resources used for the two analyses described in `A systematic approach for identifying shared mechanisms in epilepsy and its comorbidities <https://doi.org/10.1101/269860>`_ from Hoyt and Domingo-Fernández *et al.*, 2018. Our bioRxiv preprint is now available! Read it `here <https://doi.org/10.1101/269860>`_ for more details about EpiCom.
 
 Methodology
 -----------
@@ -14,7 +14,7 @@ Structure of the Project
   - `Epidemiology vs. Literature-Based Comorbidity <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Corpora%20Overview.ipynb>`_ a comparison between epidemiological and literature/gene-based comorbidity analysis
   - `Epilepsy Corpora Overview <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Corpora%20Overview.ipynb>`_ gives a summary of the originally generate corpora compared to which articles were actually curated
   - `Epilepsy Knowledge Assembly Summary <https://github.com/cthoyt/EpiCom/blob/master/Epilepsy%20Knowledge%20Assembly%20Summary.ipynb>`_ contains the summary of the different subgraphs used to generate **Table 2** of the manuscript.
-  - `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on enrichment scores 
+  - `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_ describes the statistical calculations for chosen a threshold based on enrichment scores
 3. `carbamazepine_targets.txt <https://github.com/cthoyt/EpiCom/blob/master/carbamazepine_targets.txt>`_ contains the gene list of targets of carbamazepine corresponding to Supplementary Text S1.
 
 Quantification of Gene Overlap
@@ -29,20 +29,20 @@ Build a query using `SCAIView Query Interface <http://academia.scaiview.com/acad
         :alt: Step 1: How to Make a Query
         :width: 100%
         :align: center
-			
+
 Step 2
 ~~~~~~
 From the list of genes/proteins, the click the export tab to be given options on how to export the gene list and their associated information for programmatic use.
-		
+
 .. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/step2.png
         :alt: Step 2: Display of Results
         :width: 100%
         :align: center
-		
+
 Step 3
 ~~~~~~
 Click "Export Full Entity Table" in order to retrieve the genes/proteins, their relative entropies, their associated documents, and other useful information.
-	
+
 .. image:: https://raw.githubusercontent.com/cthoyt/EpiCom/master/screenshots/step3.png
         :alt: Step 1: Export Results
         :width: 100%
@@ -68,7 +68,7 @@ Submitted a query to `NeuroMMSig <http://neurommsig.scai.fraunhofer.de/>`_ with 
         :alt: Step 1: Query Epilepsy
         :width: 100%
         :align: center
-		
+
 Step 2
 ~~~~~~
 Save the NeuroMMSig enrichment scores with the "Download Excel" button.
@@ -77,7 +77,7 @@ Save the NeuroMMSig enrichment scores with the "Download Excel" button.
         :alt: Step 2: Download Results
         :width: 100%
         :align: center
-		
+
 Step 3
 ~~~~~~
 Repeat steps 1-2 for the Alzheimer's disease. Run the Jupyter notebook, `Mechanism Enrichment Score Percentile Calculation <https://github.com/cthoyt/EpiCom/blob/master/Mechanism%20Enrichment%20Score%20Percentile%20Calculation.ipynb>`_, to identify an appropriate percentile cutoff for significant networks.

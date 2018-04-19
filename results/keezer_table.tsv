@@ -1,64 +1,88 @@
-Condition	ICD Chapter	Reference	Value
-Neoplasm	2	CHIS	11.1
-Neoplasm	2	CHS 2005	1.4
-Neoplasm	2	NHIS 2002	2.4
-Neoplasm	2	NHIS 2010	11.3
-Neoplasm	2	NPHS	1.2
-Diabetes mellitus	4	BRFSS	13.0
-Diabetes mellitus	4	CHIS	7.7
-Diabetes mellitus	4	CHS 2005	1.2
-Diabetes mellitus	4	EPIC	1.0
-Diabetes mellitus	4	GPRD	1.6
-Diabetes mellitus	4	NHIS 2002	1.3
-Diabetes mellitus	4	NHIS 2010	10.3
-Diabetes mellitus	4	NPHS	1.6
-Thyroid condition	4	CHS 2005	1.6
-Thyroid condition	4	NPHS	1.3
-Major Depression	5	CHS 2007	17.4
-Major Depression	5	EPIC	1.3
-Major Depression	5	GRPD	2.0
-Anxiety	5	CHS 2007	22.8
-Anxiety	5	EPIC	1.6
-Anxiety	5	GPRD	2.0
-Dementia	6	GPRD	6.3
-Dementia	6	NPHS	4.3
-Alzheimer's disease	6	GPRD	8.1
-Migraine	6	CHS 2005	2.0
-Migraine	6	EPIC	1.4
-Migraine	6	GPRD	1.6
-Migraine	6	NHIS 2002	3.0
-Migraine	6	NHIS 2010	34.7
-Migraine	6	NPHS	2.6
-Glaucoma	7	CHS 2005	1.2
-Glaucoma	7	NPHS	1.1
-Cataracts	7	CHS 2005	1.2
-Cataracts	7	NPHS	2.4
-Stroke	9		
-Stroke	9		
-Stroke	9		
-Stroke	9		
-Stroke	9		
-Stroke	9		
-Stroke	9		
-Heart disease	9		
-Hypertension	9		
-COPD	10		
-Chronic bronchitis	10		
-Emphysema	10		
-Asthma	10		
-Peptic ulcers	11		
-Bowel disorders	11		
-Allergies	13	CHS 2005	1.2
-Allergies	13	NPHS	1.6
-Back problems	13	CHS 2005	1.4
-Back problems	13	NPHS	1.5
-Fibromyalgia	13	CHS 2005	1.5
-Fibromyalgia	13	EPIC	2.0
-Arthritis	13	BRFSS	43.0
-Arthritis	13	CHISS	32.3
-Arthritis	13	CHS 2005	1.4
-Arthritis	13	NHIS 2002	2.3
-Arthritis	13	NHIS 2010	30.9
-Arthritis	13	NHPS	1.5
-Urinary incontinence	14	CHS 2005	3.2
-Urinary incontinence	14	NPHS	4.4
+Condition	ICD Chapter	Reference	Epilepsy Subpopulation	General Popualation	Prevalence Rate
+Neoplasm	2	CHIS	11.1	7.9	1.405063291
+Neoplasm	2	CHS 2005			1.4
+Neoplasm	2	NHIS 2002			2.4
+Neoplasm	2	NHIS 2010	11.3	8.1	1.395061728
+Neoplasm	2	NPHS			1.2
+Diabetes mellitus	4	BRFSS	13	7.7	1.688311688
+Diabetes mellitus	4	CHIS	7.7	5.7	1.350877193
+Diabetes mellitus	4	CHS 2005			1.2
+Diabetes mellitus	4	EPIC			1
+Diabetes mellitus	4	GPRD			1.6
+Diabetes mellitus	4	NHIS 2002			1.3
+Diabetes mellitus	4	NHIS 2010	10.3	8.7	1.183908046
+Diabetes mellitus	4	NPHS			1.6
+Thyroid condition	4	CHS 2005			1.6
+Thyroid condition	4	NPHS			1.3
+Major Depression	5	CHS 2007	17.4	10.7	1.626168224
+Major Depression	5	EPIC			1.3
+Major Depression	5	GRPD			2
+Anxiety	5	CHS 2007	22.8	11.2	2.035714286
+Anxiety	5	EPIC			1.6
+Anxiety	5	GPRD			2
+Dementia	6	GPRD			6.3
+Dementia	6	NPHS			4.3
+Alzheimer's disease	6	GPRD			8.1
+Migraine	6	CHS 2005			2
+Migraine	6	EPIC			1.4
+Migraine	6	GPRD			1.6
+Migraine	6	NHIS 2002			3
+Migraine	6	NHIS 2010	34.7	16.2	2.141975309
+Migraine	6	NPHS			2.6
+Glaucoma	7	CHS 2005			1.2
+Glaucoma	7	NPHS			1.1
+Cataracts	7	CHS 2005			1.2
+Cataracts	7	NPHS			2.4
+Stroke	9	BRFSS	15.7	2.4	6.541666667
+Stroke	9	CHIS	9.4	2.2	4.272727273
+Stroke	9	CHS 2005			3.9
+Stroke	9	GPRD			7
+Stroke	9	NHIS 2002			7.7
+Stroke	9	NHIS 2010	14.3	4.7	3.042553191
+Stroke	9	NPHS			2.7
+Heart disease	9	BRFSS	8.4	4.6	1.826086957
+Heart disease	9	CHIS	9.7	6.2	1.564516129
+Heart disease	9	CHS 2005			2.3
+Heart disease	9	NHIS 2002			2.5
+Heart disease	9	NHIS 2010	18.3	11.3	1.619469027
+Heart disease	9	NHPS			1.8
+Hypertension	9	CHIS	28.8	24.8	1.161290323
+Hypertension	9	CHS 2005			1.1
+Hypertension	9	EPIC			1
+Hypertension	9	NHIS 2010	24.2	29	0.8344827586
+Hypertension	9	NPHS			1.9
+COPD	10	CHIS	5.2	1.9	2.736842105
+COPD	10	CHS 2005			2.9
+COPD	10	NPHS			1.9
+Chronic bronchitis	10	GPRD			1.7
+Chronic bronchitis	10	NHIS 2010	7.5	4.1	1.829268293
+Emphysema	10	GRPD			1.3
+Emphysema	10	NHIS 2010	5.5	1.7	3.235294118
+Asthma	10	BRFSS	20.3	8.2	2.475609756
+Asthma	10	CHIS	21.9	12.6	1.738095238
+Asthma	10	CHS 2005			1.4
+Asthma	10	EPIC			1.3
+Asthma	10	GRPD			1.3
+Asthma	10	NHIS 2002			1.8
+Asthma	10	NHIS 2010	19.2	12.6	1.523809524
+Asthma	10	NPHS			1.1
+Peptic ulcers	11	CHS 2005			2.5
+Peptic ulcers	11	GRPD			1.9
+Peptic ulcers	11	NHIS 2010	12.4	6.2	2
+Peptic ulcers	11	NPHS			2.7
+Bowel disorders	11	CHS 2005			2
+Bowel disorders	11	NPHS			3.3
+Allergies	13	CHS 2005			1.2
+Allergies	13	NPHS			1.6
+Back problems	13	CHS 2005			1.4
+Back problems	13	NPHS			1.5
+Fibromyalgia	13	CHS 2005			1.5
+Fibromyalgia	13	EPIC			2
+Arthritis	13	BRFSS	43	28	1.535714286
+Arthritis	13	CHISS	32.3	18.9	1.708994709
+Arthritis	13	CHS 2005			1.4
+Arthritis	13	NHIS 2002			2.3
+Arthritis	13	NHIS 2010	30.9	21.4	1.443925234
+Arthritis	13	NHPS			1.5
+Urinary incontinence	14	CHS 2005			3.2
+Urinary incontinence	14	NPHS			4.4
