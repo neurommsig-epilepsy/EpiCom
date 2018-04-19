@@ -9,7 +9,7 @@ Diabetes Mellitus	D003920	"[MeSH Disease:""Diabetes Mellitus""]"	394411	6661	184
 Anxiety	D001007	"[MeSH Disease:""Anxiety Disorders""]"	84138	1782	124	4.27
 Arthritis	D001168	"[MeSH Disease:""Arthritis""]"	259327	5367	122	4.2
 Cataract	D002386	"[MeSH Disease:""Cataract""]"	52150	2238	119	4.1
-Asthma	D001249	[MeSH Disease:"Asthma"]	147697	3761	86	2.96
+Asthma	D001249	MeSH Disease:"Asthma"]	147697	3761	86	2.96
 Glaucoma	D005901	[MeSH Disease:"Glaucoma"]	56679	2303	48	1.65
 Urinary Incontinence	D014549	"[MeSH Disease:""Urinary Incontinence""]"	34170	720	24	0.82
 Peptic Ulcer	D010437	"[MeSH Disease:""Peptic Ulcer""]"	68234	1445	21	0.72
