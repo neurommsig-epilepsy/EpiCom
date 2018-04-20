@@ -1,18 +1,23 @@
 Condition	MeSH ID	Reference Query	Associated documents	Disease-associated genes	Comorbidity-associated genes	Normalized pleitropy rate (%)
 Epilepsy	D004827	"[MeSH Disease:""Epilepsy""]"	192245	2901	-	-
+Stroke	D020521	"[MeSH Disease:""Stroke""]"	210846	4533	633	17.78
 Alzheimer's Disease	D000544	"[MeSH Disease:""Alzheimer Disease""]"	109495	4968	396	13.65
 Migraine	D008881	"[MeSH Disease:""Migraine Disorders""]"	30928	1230	306	10.54
 Parkinson's Disease	D010300	"[MeSH Disease:""Parkinson Disease""]"	79103	3646	258	8.89
 Hypertension	D006973	"[MeSH Disease:""Hypertension""]"	391190	5574	252	8.68
 Dementia	D003704	"[MeSH Disease:""Dementia""]"	183802	5833	220	7.58
 Diabetes Mellitus	D003920	"[MeSH Disease:""Diabetes Mellitus""]"	394411	6661	184	6.34
+Intestinal Diseases	D007410	"[MeSH Disease:""Intestinal Diseases""]"	629691	9.093	166	5.72
+Thyroid Diseases	D013959	"[MeSH Disease:""Thyroid Diseases""]"	153025	4366	133	4.58
 Anxiety	D001007	"[MeSH Disease:""Anxiety Disorders""]"	84138	1782	124	4.27
 Arthritis	D001168	"[MeSH Disease:""Arthritis""]"	259327	5367	122	4.2
 Cataract	D002386	"[MeSH Disease:""Cataract""]"	52150	2238	119	4.1
 Asthma	D001249	"[MeSH Disease:""Asthma""]"	147697	3761	86	2.96
 Glaucoma	D005901	"[MeSH Disease:""Glaucoma""]"	56679	2303	48	1.65
+Depressive Disorder, Major	D003865	"[MeSH Disease:""Depressive Disorder, Major""]"	15706	1249	46	1.58
 Urinary Incontinence	D014549	"[MeSH Disease:""Urinary Incontinence""]"	34170	720	24	0.82
 Peptic Ulcer	D010437	"[MeSH Disease:""Peptic Ulcer""]"	68234	1445	21	0.72
+Back Pain	D001416	"[MeSH Disease:""Back Pain""]"	48516	1191	17	0.58
 Pulmonary Disease, Chronic Obstructive	D029424	"[MeSH Disease:""Pulmonary Disease Chronic Obstructive""]"	35627	2244	15	0.51
 Fibromyalgia	D005356	"[MeSH Disease:""Fibromyalgia""]"	9021	468	10	0.34
 Emphysema	D004646	"[MeSH Disease:""Emphysema""]"	25511	1261	9	0.31
